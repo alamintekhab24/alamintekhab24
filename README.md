@@ -1,5 +1,12 @@
-<h1 align="center"> Hey 👋🏽, I'm Intekhab Alam </h1>
-<h2 align="center">
+### Hello world, I'm Intekhab  👋 
+
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>>
     Here are some ideas to help you get started:
 </h2>
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
