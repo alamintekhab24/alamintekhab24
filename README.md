@@ -3,6 +3,7 @@
     Here are some ideas to help you get started:
 </h2>
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+
 - 👋 Hi, I’m @Intekhab
 - 👀 I’m interested in Coding, watching movies, Poetry...
 - 🌱 I’m currently learning Back-end Development...
