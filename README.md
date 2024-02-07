@@ -22,7 +22,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fact: HARD TIME CREATE STRONG MEN, STRONG MEN CREATE GOOD TIMES, GOOD TIMES CREATE WEAK MEN, WEAK MEN CREATE HARD TIMES...
 
-
+<br/>
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
