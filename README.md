@@ -6,9 +6,12 @@
  
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-</p>>
-    Here are some ideas to help you get started:
-</h2>
+</p>
+
+-----
+
+### 👨🏻‍💻 &nbsp;About Me
+
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 - 👋 Hi, I’m @Intekhab
@@ -18,6 +21,7 @@
 - ✉️ You can email me at intekhab.alam2496@gmail.com. I'll try to respond as soon as possible!\
 - 😄 Pronouns: He/Him
 - ⚡ Fact: HARD TIME CREATE STRONG MEN, STRONG MEN CREATE GOOD TIMES, GOOD TIMES CREATE WEAK MEN, WEAK MEN CREATE HARD TIMES...
+
 
 <h2 align="center">
   Here are some technologies I use at work:
