@@ -31,8 +31,6 @@
 <a href="mailto:intekhab.alam2496@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.hackerrank.com/avinash201199"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
 
------  
-
 <br/>
 <h2 align="center">
   Here are some technologies I use at work:
