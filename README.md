@@ -23,10 +23,14 @@
 - ⚡ Fact: HARD TIME CREATE STRONG MEN, STRONG MEN CREATE GOOD TIMES, GOOD TIMES CREATE WEAK MEN, WEAK MEN CREATE HARD TIMES...
 
 -----
+
+### 🌐 Portfolio
+Check out my portfolio for a closer look at some of the projects I've worked on. From web applications to backend systems, I strive for excellence in every line of [Portfolio](https://alamintekhab24.github.io/My-Portfolio/)
+
+-----
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://alamintekhab24.github.io/My-Portfolio/" Portfolio>
 <a href="https://www.linkedin.com/in/intekhab-alam-in8822/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:intekhab.alam2496@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.hackerrank.com/avinash201199"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
